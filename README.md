@@ -37,7 +37,8 @@
 ## 📫 Connect With Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ram-c-b17067193?trk=contact-info)  
 - 📧 **gautamram94@gmail.com**  
-  
+- 📄 [Download My Resume]
+(https://github.com/tarungautam07/Tarungautam07/blob/main/Ram_Resume.pdf)
 
 ---
 

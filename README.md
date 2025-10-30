@@ -27,6 +27,7 @@
 > Detecting fake news articles using Natural Language Processing and Machine Learning techniques.  
 
 🔹 [Netflix Analysis Dashboard]
+(https://github.com/tarungautam07/Netflix-Analysis-Dashboard-)
 > Power BI dashboard analyzing Netflix content by genre, ratings, and region to extract insights.  
 
 🔹 [Real-Time Sentiment Analysis on Twitter Data] 
